@@ -1,8 +1,12 @@
+import './styles/page.css';
+
 export default function Home() {
   return (
-    <main style={{ padding: 20 }}>
-      <h1>Welcome!</h1>
-      <a href="/bookshelf">Go to the Bookshelf →</a>
+    <main>
+      <h1>Thank you for coming! Wanna head on in?</h1>
+      <a href="/bookshelf" className="hover-link">
+        Go to the Bookshelf →
+      </a>
     </main>
   );
 }
