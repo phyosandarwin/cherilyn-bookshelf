@@ -1,3 +1,8 @@
+export interface GalleryItem {
+  type: 'image' | 'video';
+  src: string;
+}
+
 export interface Item {
   id: string;
   title: string;
@@ -6,4 +11,5 @@ export interface Item {
   shelf: number;
   width: number;
   height: number;
+  galleryItems?: GalleryItem[];
 }
