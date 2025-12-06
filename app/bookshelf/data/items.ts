@@ -10,7 +10,7 @@ export const items: Item[] = [
         width: 130,
         height: 70,
         galleryItems: [
-            { type: 'image', src: '/images/taekwondo_days.jpg' },
+            { type: 'image', src: '/images/webp_images/taekwondo_days.webp' },
         ],
     },
     {
@@ -22,9 +22,9 @@ export const items: Item[] = [
         width: 150,
         height: 70,
         galleryItems: [
-            { type: 'image', src: '/images/bus_189_comic_1.png' },
-            { type: 'image', src: '/images/bus_189_comic_2.png' },
-            { type: 'image', src: '/images/bus_189_comic_3.png' },
+            { type: 'image', src: '/images/webp_images/bus_189_comic_1.webp' },
+            { type: 'image', src: '/images/webp_images/bus_189_comic_2.webp' },
+            { type: 'image', src: '/images/webp_images/bus_189_comic_3.webp' },
         ],
     },
     {
@@ -36,9 +36,9 @@ export const items: Item[] = [
         width: 90,
         height: 80,
         galleryItems: [
-            { type: 'image', src: '/images/chemistry_comic_1.png' },
-            { type: 'image', src: '/images/chemistry_comic_2.png' },
-            { type: 'image', src: '/images/chemistry_comic_3.png' },
+            { type: 'image', src: '/images/webp_images/chemistry_comic_1.webp' },
+            { type: 'image', src: '/images/webp_images/chemistry_comic_2.webp' },
+            { type: 'image', src: '/images/webp_images/chemistry_comic_3.webp' },
         ],
     },
     {
@@ -50,8 +50,8 @@ export const items: Item[] = [
         width: 100,
         height: 70,
         galleryItems: [
-            { type: 'image', src: '/images/cherilyn_snoopy.jpg' },
-            { type: 'image', src: '/images/cherilyn_snoopy_2.jpg' },
+            { type: 'image', src: '/images/webp_images/cherilyn_snoopy.webp' },
+            { type: 'image', src: '/images/webp_images/cherilyn_snoopy_2.webp' },
         ],
     },
     {
@@ -63,7 +63,7 @@ export const items: Item[] = [
         width: 100,
         height: 50,
         galleryItems: [
-            { type: 'image', src: '/images/film_us.jpg' },
+            { type: 'image', src: '/images/webp_images/film_us.webp' },
             { type: 'video', src: '/videos/film_photo_vid.mp4' },
         ],
     },
@@ -76,11 +76,11 @@ export const items: Item[] = [
         width: 90,
         height: 50,
         galleryItems: [
-            { type: 'image', src: '/images/cherilyn_adventure.jpg' },
-            { type: 'image', src: '/images/cherilyn_adventure_2.jpg' },
-            { type: 'image', src: '/images/cherilyn_adventure_3.jpg' },
-            { type: 'image', src: '/images/cherilyn_adventure_4.jpg' },
-            { type: 'image', src: '/images/cherilyn_adventure_5.jpg' },
+            { type: 'image', src: '/images/webp_images/cherilyn_adventure.webp' },
+            { type: 'image', src: '/images/webp_images/cherilyn_adventure_2.webp' },
+            { type: 'image', src: '/images/webp_images/cherilyn_adventure_3.webp' },
+            { type: 'image', src: '/images/webp_images/cherilyn_adventure_4.webp' },
+            { type: 'image', src: '/images/webp_images/cherilyn_adventure_5.webp' },
             { type: 'video', src: '/videos/cherilyn_walking.mp4' },
         ],
     },
@@ -93,12 +93,12 @@ export const items: Item[] = [
         width: 95,
         height: 60,
         galleryItems: [
-            { type: 'image', src: '/images/cherilyn_side_portrait.jpg' },
-            { type: 'image', src: '/images/disposable_pic_1.jpg' },
-            { type: 'image', src: '/images/disposable_pic_2.jpg' },
-            { type: 'image', src: '/images/disposable_pic_3.jpg' },
-            { type: 'image', src: '/images/disposable_pic_4.jpg' },
-            { type: 'image', src: '/images/disposable_pic_5.jpg' },
+            { type: 'image', src: '/images/webp_images/cherilyn_side_portrait.webp' },
+            { type: 'image', src: '/images/webp_images/disposable_pic_1.webp' },
+            { type: 'image', src: '/images/webp_images/disposable_pic_2.webp' },
+            { type: 'image', src: '/images/webp_images/disposable_pic_3.webp' },
+            { type: 'image', src: '/images/webp_images/disposable_pic_4.webp' },
+            { type: 'image', src: '/images/webp_images/disposable_pic_5.webp' },
         ],
     },
     {
@@ -110,7 +110,7 @@ export const items: Item[] = [
         width: 70,
         height: 90,
         galleryItems: [
-            { type: 'image', src: '/images/cherilyn_movie.jpg' },
+            { type: 'image', src: '/images/webp_images/cherilyn_movie.webp' },
         ],
     },
     // SPECIAL VIDEO LETTER
